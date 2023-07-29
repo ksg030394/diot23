@@ -25,3 +25,8 @@ git log
 git push -u origin main
 
 git checkout -b dev // to crate new branch from main branch
+
+git add .
+git commit -m "just adde few lines in txt"
+
+git push -u origin dev
