@@ -18,6 +18,8 @@ git pull origin main
 
 git add helloworld.py
 
+git commit -m "just adde few lines in txt"
+
 git log
 
 git push -u origin main
