@@ -4,8 +4,19 @@ git status
 git pull https://github.com/ksg030394/diot23.git // to pull repo from github
 git pull <https link of your code repository>
 
-git branch
+git branch  // show master as branch
 
 git config --global user.name ksg030394
 git config --global user.email gujarathikshitij@gmail.com
 git config --list
+
+git remote add origin https://github.com/ksg030394/diot23.git
+
+git branch -m main  #to change branch from master to main
+
+git pull origin main
+
+git add helloworld.py
+
+git log
+
