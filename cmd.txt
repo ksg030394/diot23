@@ -20,3 +20,6 @@ git add helloworld.py
 
 git log
 
+git push -u origin main
+
+git checkout -b dev // to crate new branch from main branch
