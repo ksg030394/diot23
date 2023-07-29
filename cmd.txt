@@ -1,0 +1,11 @@
+git init .   // run this command in a folder to make it a local repo
+git status
+
+git pull https://github.com/ksg030394/diot23.git // to pull repo from github
+git pull <https link of your code repository>
+
+git branch
+
+git config --global user.name ksg030394
+git config --global user.email gujarathikshitij@gmail.com
+git config --list
